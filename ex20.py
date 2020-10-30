@@ -1,3 +1,4 @@
+# 행맨게임
 import random
 
 guesses=""
