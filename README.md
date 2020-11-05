@@ -9,6 +9,7 @@
 3) math 모듈 사용법 연습
 4) tkinter 모듈 사용법 연습
 5) pickle 모듈 사용법 연습
+6) PIL 라이브러리 사용법 연습
 
 
 ## Development setup
@@ -43,6 +44,10 @@ Python Version:
     * ex21.py : 객체 쓰기
     * ex22.py : 객체 읽기
     * ex23.py : 메모장 만들기
+    * ex24.py : 필로우를 이용한 영상 표시
+    * ex25.py : 필로우를 이용한 영상처리, 45도 회전
+    * ex26.py : 필로우를 이용한 영상처리, 영상흐리게하기
+    * ex27.py : 영상처리 기능을 메뉴로 연결
    
 
 ## Meta
