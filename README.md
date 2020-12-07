@@ -61,6 +61,8 @@ Python Version:
     * ex38.py : 마우스 이벤트 처리
     * ex39.py : 키보드 이벤트 처리
     * ex40.py : 명화감상하기
+    * ex41.py : 텍스트 입출력
+    * ex42.py : 흑백사진 출력
 
 
 ## Meta
