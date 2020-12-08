@@ -63,6 +63,7 @@ Python Version:
     * ex40.py : 명화감상하기
     * ex41.py : 텍스트 입출력
     * ex42.py : 흑백사진 출력
+    * ex43.py : 상속을 사용하여 네모 그리기
 
 
 ## Meta
